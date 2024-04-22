@@ -12,7 +12,15 @@
 <a href="https://www.linkedin.com/in/gustavo-abrantes-de-souza-b88179286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### My Dashboard Github
-![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=chartreuse-dark&count_private=true) 
+![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true) 
+
+## Main Repositories of my profile
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=Project-Google-Clone)](https://github.com/GustaaSZ/Project-Google-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=ProjetoMP_OO)](https://github.com/GustaaSZ/ProjetoMP_OO)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=HortFruti)](https://github.com/GustaaSZ/HortFruti)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=Reserva-de-passagens)](https://github.com/GustaaSZ/Reserva-de-passagens)  
+
 
 # Technologies I Use
 
