@@ -12,7 +12,9 @@
 <a href="https://www.linkedin.com/in/gustavo-abrantes-de-souza-b88179286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### My Dashboard Github
-![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true) 
+<!--![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)-->
+![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+
 
 ## Main Repositories of my profile
 
