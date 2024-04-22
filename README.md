@@ -14,7 +14,7 @@
 
 ### My Dashboard Github
 <!-- ![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true) -->
-![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=transparent&count_private=false&include_all_commits=true)
 
 ### Technologies I Use
 
