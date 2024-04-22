@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello Everyone! I'm Gustavo Abrantes" src="./asstes/img_profile.PNG" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello Everyone! I'm Gustavo Abrantes" src="./asstes/img_profilee.PNG" /></a></p>
 
 - 🔭 Today, I still don't work int he field just study.
 - 🌱 I’m currently learning web development and another field languagens.
