@@ -1,11 +1,12 @@
-# Hello Everyone, I'm Gustavo Abrantes
+
+<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello Everyone! I'm Gustavo Abrantes" src="./asstes/img_profile.PNG" /></a></p>
 
 - 🔭 Today, I still don't work int he field just study.
 - 🌱 I’m currently learning web development and another field languagens.
 - 👯 I’m looking to collaborate to find for my first job in the field
 - 📫 How to reach me: Gugaabrantes2015@gmail.com
 
-## My Profiles
+### My Profiles
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustaavo_Ab)
 <a href="https://discord.com/channels/1220532965688475730/1220532966170824959" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -16,7 +17,7 @@
 ![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
 
 
-## Main Repositories of my profile
+### Main Repositories of my profile
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=Project-Google-Clone)](https://github.com/GustaaSZ/Project-Google-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=ProjetoMP_OO)](https://github.com/GustaaSZ/ProjetoMP_OO)  
@@ -24,7 +25,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=Reserva-de-passagens)](https://github.com/GustaaSZ/Reserva-de-passagens)  
 
 
-# Technologies I Use
+### Technologies I Use
 
 <div style="display: center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
