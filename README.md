@@ -15,6 +15,7 @@
 ### My Dashboard Github
 <!-- ![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true) -->
 ![GustaaSZ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaaSZ&show_icons=true&theme=transparent&count_private=false&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaaSZ&layout=compact&theme=radical)
 
 ### Technologies I Use
 
@@ -28,6 +29,7 @@
   <img align="center" alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
 
 ### Main Repositories of my profile
 
