@@ -36,7 +36,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=Project-Google-Clone)](https://github.com/GustaaSZ/Project-Google-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=ProjetoMP_OO)](https://github.com/GustaaSZ/ProjetoMP_OO)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=HortFruti)](https://github.com/GustaaSZ/HortFruti)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=Reserva-de-passagens)](https://github.com/GustaaSZ/Reserva-de-passagens)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustaaSZ&repo=Spotify)](https://github.com/GustaaSZ/Spotify) 
 
 
 
